@@ -1,0 +1,42 @@
+PUNTO 1.
+
+a) El metodo <<create>> debe estar sobreescrito en BuildingFire con la anotacion @Override.
+b) la clase Disaster puede ser abstracta sin importar si la clase Incident es o no Abstracta.
+c) La clase trafficv Accident no puede reescribir el metodo como abstracto.
+d) Un metodo de la clase LowPriority No pude ser sobreescrito en la clase CatInTree porque 
+
+seria unico de la clase LowPriority
+e) La expresion  Incident p = new BuildingFire() si es legal.
+f) La espresion  EarthQuake p = new Disaster() es ilegal.
+g)	
+	1.	FALSE
+	2.	FALSE
+	3.	TRUE
+	4.	FALSE
+	5.	FALSE
+
+
+PUNTO 2.
+
+G		
+G 1 		
+G 2 		
+
+F
+G 1 
+F 2 
+G 2 
+
+F
+G 1 
+E 2 
+G 1 
+
+F
+G 1 
+E 2 
+G 1
+
+PUNTO 3.
+a)  	0			b)	0
+	1
